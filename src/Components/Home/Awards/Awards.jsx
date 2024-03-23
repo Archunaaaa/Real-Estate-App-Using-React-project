@@ -18,7 +18,7 @@ const Awards = () => {
                 </div>
                 <h1>{val.num}</h1>
                 <p>{val.name}</p>
-              </div>
+              </div>  
             ))}
           </div>
         </div>

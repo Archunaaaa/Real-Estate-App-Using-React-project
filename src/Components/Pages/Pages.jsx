@@ -25,7 +25,7 @@ const Pages = () => {
         <Footer />
       </Router>
     </>
-  )
+  ) 
 }
 
 export default Pages

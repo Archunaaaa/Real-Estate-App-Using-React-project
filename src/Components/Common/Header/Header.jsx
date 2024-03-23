@@ -30,7 +30,6 @@ const Header = () => {
               <i className='fa fa-sign-out'></i> Sign In
             </button>
           </div>
-
           <div className='toggle'>
             <button onClick={() => setNavList(!navList)}>{navList ? <i className='fa fa-times'></i> : <i className='fa fa-bars'></i>}</button>
           </div>
@@ -38,6 +37,7 @@ const Header = () => {
       </header>
     </>
   )
+
 }
 
 export default Header

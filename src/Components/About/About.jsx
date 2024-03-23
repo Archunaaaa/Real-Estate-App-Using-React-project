@@ -1,4 +1,4 @@
-import React from "react"
+  import React from "react"
 import Back from "../Common/Back"
 import Heading from "../Common/Heading"
 import img from "../Images/about.jpg"

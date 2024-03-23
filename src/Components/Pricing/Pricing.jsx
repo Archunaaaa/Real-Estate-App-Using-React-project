@@ -7,7 +7,7 @@ import "../Home/Price/Price.css"
 const Pricing = () => {
   return (
     <>
-      <section className='pricing mb'>
+      <section classN   ame='pricing mb'>
         <Back name='30 days money back guarantee' title='No Extra Fees. Friendly Support' cover={img} />
         <div className='price container'>
           <PriceCard />
